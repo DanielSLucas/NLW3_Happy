@@ -8,7 +8,7 @@ a orfanatos.
 
 ## Sobre o desenvolvimento
 
-- back-end: node.js, typescript, express, typeorm, sqlite;
-- front-end Web: reactJS, typescript;
-- front-end Mobile: react native, expo, typescript;
+- Back-end: node.js, typescript, express, typeorm, sqlite;
+- Front-end Web: reactJS, typescript;
+- Front-end Mobile: react native, expo, typescript;
 
